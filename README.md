@@ -1,4 +1,3 @@
-# cia-factbook-data-analysis-sql
 Analyzing CIA Factbook Data using SQL
 
 In this project, we work with CIA World Factbook data. We analyze data using SQL.
